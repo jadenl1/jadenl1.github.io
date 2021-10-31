@@ -1,0 +1,186 @@
+html{
+    background: #0f1e24;
+    background: url(./siteImages2/HomePageGradient2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+    padding: 0 14vh;
+    position: relative;
+}
+
+nav{
+    position: relative;
+    bottom: 3%;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 1px;
+}
+
+.logo{
+    position: relative;
+    right: 3%;
+    width: 15%;
+    height: auto;
+}
+
+.homeButton{
+    width: 15%;
+    height: auto;
+    cursor: pointer;
+    position: relative;
+    bottom: 3px;
+    left: 25vh;
+    direction: reverse;
+    transition: 0.3s;
+}
+
+.homeButton:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+nav ul{
+    flex: 1;
+    text-align: right;
+    padding-right: 40px;
+    position: relative;
+    left: 25vh;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 30px;
+}
+
+nav ul li .nav-bar{
+    color: white;
+	font-size: 3vh;
+    padding: 5px 13px;
+    text-decoration: none;
+    position: relative;
+}
+
+nav ul li .nav-bar::after{
+    content: '';
+    width: 0;
+    height: 3px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    background: white;
+    transition: width 0.3s;
+}
+
+nav ul li .nav-bar:hover::after{
+    width: 60%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 9vh;
+    font-size: 9vh;
+    border-radius: 7px;
+    color: white;
+    font-weight: 900;
+}
+
+.options{
+    position: relative;
+    bottom: 4vh;
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    color: white;
+    padding-bottom: 7vh;
+}
+
+.options h2{
+    font-size: 5.7vh;
+}
+
+.options .stack{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 56vh;
+    height: 65vh;
+}
+
+.options .stack .smCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 2px solid white;
+    border-radius: 7px;
+    padding: 2vh;
+    width: 100%;
+    height: 28vh;
+    direction: reverse;
+    transition: 0.3s;
+}
+
+.options .stack .smCard:hover{
+    transform: scale(1.05);
+    transition: 0.3s;
+    background: rgba(255, 255, 255, 0.144);
+}
+
+.options .card{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    width: 56vh;
+    height: 65vh;
+    border: 2px solid white;
+    margin: 0 30px;
+    border-radius: 7px;
+
+    direction: reverse;
+    transition: 0.3s;
+}
+
+.card:hover{
+    transform: scale(1.05);
+    transition: 0.3s;
+    background: rgba(255, 255, 255, 0.144);
+}
+
+.options .card p{
+    font-weight: 300;
+    font-size: 3vh;
+    padding: 0 30px;
+    text-align: center;
+    margin: auto;
+}
+
+.options .card h2{
+    padding-top: 2vh;
+}
+
+.options .photoCard h3{
+    font-weight: 300;
+    font-size: 2.8vh;
+}

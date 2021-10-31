@@ -1,0 +1,135 @@
+html{
+    overflow-y: hidden;
+    background-color: black;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.082),transparent), url(./siteImages2/JadensGalleryBackground.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 0 14vh;
+    position: relative;
+}
+
+nav{
+    position: relative;
+    bottom: 3%;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 1px;
+}
+
+.logo{
+    position: relative;
+    right: 3%;
+    width: 15%;
+    height: auto;
+}
+
+.homeButton{
+    width: 15%;
+    height: auto;
+    cursor: pointer;
+    position: relative;
+    bottom: 3px;
+    left: 25vh;
+    direction: reverse;
+    transition: 0.3s;
+}
+
+.homeButton:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+nav ul{
+    flex: 1;
+    text-align: right;
+    padding-right: 40px;
+    position: relative;
+    left: 25vh;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 30px;
+}
+
+nav ul li .nav-bar{
+    color: white;
+	font-size: 3vh;
+    padding: 5px 13px;
+    text-decoration: none;
+    position: relative;
+}
+
+nav ul li .nav-bar::after{
+    content: '';
+    width: 0;
+    height: 3px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    background: white;
+    transition: width 0.3s;
+}
+
+nav ul li .nav-bar:hover::after{
+    width: 60%;
+}
+
+.body{
+    color: black;
+    position: relative;
+    top: 8vh;
+}
+
+.title{
+    font-weight: 900;
+    font-size: 17vh;
+    position: relative;
+    top: 2vh;
+    color: black;
+}
+
+.subtitle{
+    font-weight: 300;
+    font-size: 5vh;
+    padding-left: 1vh;
+    position: relative;
+    bottom: 2vh;
+}
+
+.photos{
+    width: 950vh;
+    height: 70vh;
+    position: relative;
+    left: 120vh;
+    bottom: 50vh;
+    display: flex;
+    padding: 30px;
+    justify-content: space-evenly;
+}
+
+.photo{
+    direction: reverse;
+    transition: 0.4s;
+}
+
+.photo:hover{
+    transform: scale(1.05);
+    transition: 0.4s
+}
