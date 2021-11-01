@@ -92,7 +92,7 @@ nav ul li .nav-bar:hover::after{
     bottom: 8%;
 }
 
-.text-box p{
+.text-box .p1{
     font-size: 50px;
     font-weight: 600;
 }
@@ -141,4 +141,12 @@ nav ul li .nav-bar:hover::after{
 .text-box a:hover{
     transform: scale(1.05);
     transition: 0.4s;
+}
+
+.sub{
+    color: rgba(255, 255, 255, 0.363);
+    position: relative;
+    top: 20px;
+    left: 8px;
+    font-size: 10px;
 }
