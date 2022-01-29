@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a1d72fe8.css",
+    "main.js": "/static/js/main.2cf85f58.js",
+    "static/media/leojaden-video-background.mp4": "/static/media/leojaden-video-background.de5742168e9de9edaf2b.mp4",
+    "static/media/Photography2.JPG": "/static/media/Photography2.4fd2a78cad812c26cdf0.JPG",
+    "static/media/leojaden-video-bg-2.mp4": "/static/media/leojaden-video-bg-2.f52470531dab7bcba00f.mp4",
+    "static/media/Photography5.JPG": "/static/media/Photography5.0ebb74dcf3ec87e25485.JPG",
+    "static/media/Photography4.jpg": "/static/media/Photography4.a96bc79c228a4a8b54f5.jpg",
+    "static/media/Photography3.jpg": "/static/media/Photography3.bd293397ca47b87539ea.jpg",
+    "static/media/Photography8.jpg": "/static/media/Photography8.666e0b66a0f4d9544b58.jpg",
+    "static/media/Photography9.jpg": "/static/media/Photography9.0808ef83cf260ac8cf1c.jpg",
+    "static/media/Photography6.jpg": "/static/media/Photography6.93ac6cfda9cc1db2ab26.jpg",
+    "static/media/Photography7.jpg": "/static/media/Photography7.c9b62ace55ba162785bc.jpg",
+    "static/media/Photography10.JPG": "/static/media/Photography10.847124044102f5132884.JPG",
+    "static/media/Photography1.JPG": "/static/media/Photography1.708fca629fe5d3cbf7c6.JPG",
+    "static/media/JNRLogo.png": "/static/media/JNRLogo.1c32f920a8e72f1ffc3e.png",
+    "index.html": "/index.html",
+    "main.a1d72fe8.css.map": "/static/css/main.a1d72fe8.css.map",
+    "main.2cf85f58.js.map": "/static/js/main.2cf85f58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1d72fe8.css",
+    "static/js/main.2cf85f58.js"
+  ]
+}
