@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.6296cb92.css",
+    "main.css": "/static/css/main.74e01291.css",
     "main.js": "/static/js/main.368a7356.js",
     "static/media/leojaden-video-background.mp4": "/static/media/leojaden-video-background.de5742168e9de9edaf2b.mp4",
     "static/media/Photography2.JPG": "/static/media/Photography2.4fd2a78cad812c26cdf0.JPG",
@@ -17,11 +17,11 @@
     "static/media/leojaden-mobile-bg.jpeg": "/static/media/leojaden-mobile-bg.3324f67aace3685973fa.jpeg",
     "static/media/JNRLogo.png": "/static/media/JNRLogo.1c32f920a8e72f1ffc3e.png",
     "index.html": "/index.html",
-    "main.6296cb92.css.map": "/static/css/main.6296cb92.css.map",
+    "main.74e01291.css.map": "/static/css/main.74e01291.css.map",
     "main.368a7356.js.map": "/static/js/main.368a7356.js.map"
   },
   "entrypoints": [
-    "static/css/main.6296cb92.css",
+    "static/css/main.74e01291.css",
     "static/js/main.368a7356.js"
   ]
 }
