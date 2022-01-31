@@ -1,4 +1,4 @@
-# :sunny: leonardjaden.me - Jaden Leonard :a
+# :sunny: leonardjaden.me - Jaden Leonard
  ### Created w/ ReactJS⚛️
 
 ### 🗒️Description:
