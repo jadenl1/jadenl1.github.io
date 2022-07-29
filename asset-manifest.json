@@ -1,27 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.2db8b987.css",
-    "main.js": "/static/js/main.66f5a17e.js",
-    "static/media/leojaden-video-background.mp4": "/static/media/leojaden-video-background.de5742168e9de9edaf2b.mp4",
-    "static/media/Photography2.JPG": "/static/media/Photography2.4fd2a78cad812c26cdf0.JPG",
-    "static/media/leojaden-video-bg-2.mp4": "/static/media/leojaden-video-bg-2.f52470531dab7bcba00f.mp4",
-    "static/media/Photography5.JPG": "/static/media/Photography5.0ebb74dcf3ec87e25485.JPG",
-    "static/media/Photography4.jpg": "/static/media/Photography4.a96bc79c228a4a8b54f5.jpg",
-    "static/media/Photography3.jpg": "/static/media/Photography3.bd293397ca47b87539ea.jpg",
-    "static/media/Photography8.jpg": "/static/media/Photography8.666e0b66a0f4d9544b58.jpg",
-    "static/media/Photography9.jpg": "/static/media/Photography9.0808ef83cf260ac8cf1c.jpg",
-    "static/media/Photography6.jpg": "/static/media/Photography6.93ac6cfda9cc1db2ab26.jpg",
-    "static/media/Photography7.jpg": "/static/media/Photography7.c9b62ace55ba162785bc.jpg",
-    "static/media/Photography10.JPG": "/static/media/Photography10.847124044102f5132884.JPG",
-    "static/media/Photography1.JPG": "/static/media/Photography1.708fca629fe5d3cbf7c6.JPG",
-    "static/media/leojaden-mobile-bg.jpeg": "/static/media/leojaden-mobile-bg.0ed34d088b27df666871.jpeg",
-    "static/media/JNRLogo.png": "/static/media/JNRLogo.1c32f920a8e72f1ffc3e.png",
+    "main.css": "/static/css/main.5d226de8.css",
+    "main.js": "/static/js/main.385eb7da.js",
+    "static/media/maryland-plants.jpg": "/static/media/maryland-plants.cb3a7c1c931bc7c785c6.jpg",
+    "static/media/umbc-hack.jpg": "/static/media/umbc-hack.79f4feedcae3e5fbde64.jpg",
+    "static/media/karjat-india.jpg": "/static/media/karjat-india.8a2e8e9c5237c0296f0b.jpg",
+    "static/media/buzzword-5.jpg": "/static/media/buzzword-5.76ead029eb770b61a9ac.jpg",
+    "static/media/MonumentGrotesk-Regular.eot": "/static/media/MonumentGrotesk-Regular.e846dfc65500190b5e0c.eot",
+    "static/media/MonumentGrotesk-Regular.ttf": "/static/media/MonumentGrotesk-Regular.02c608d4045c684e70bb.ttf",
+    "static/media/space-3.jpg": "/static/media/space-3.b7d7b6ddeeeae5f64a5a.jpg",
+    "static/media/umd-bitcamp.jpg": "/static/media/umd-bitcamp.3438abbb081a2aac5581.jpg",
+    "static/media/MonumentGrotesk-Regular.woff": "/static/media/MonumentGrotesk-Regular.ea373644ecfa90551671.woff",
+    "static/media/MonumentGrotesk-Regular.woff2": "/static/media/MonumentGrotesk-Regular.366121b63755af51343c.woff2",
     "index.html": "/index.html",
-    "main.2db8b987.css.map": "/static/css/main.2db8b987.css.map",
-    "main.66f5a17e.js.map": "/static/js/main.66f5a17e.js.map"
+    "main.5d226de8.css.map": "/static/css/main.5d226de8.css.map",
+    "main.385eb7da.js.map": "/static/js/main.385eb7da.js.map"
   },
   "entrypoints": [
-    "static/css/main.2db8b987.css",
-    "static/js/main.66f5a17e.js"
+    "static/css/main.5d226de8.css",
+    "static/js/main.385eb7da.js"
   ]
 }
