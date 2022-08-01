@@ -1,11 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.5d226de8.css",
-    "main.js": "/static/js/main.385eb7da.js",
-    "static/media/maryland-plants.jpg": "/static/media/maryland-plants.cb3a7c1c931bc7c785c6.jpg",
+    "main.css": "/static/css/main.322cccf7.css",
+    "main.js": "/static/js/main.1c35caaa.js",
+    "static/media/mp-boat.JPG": "/static/media/mp-boat.14d78d109ed74b6e4a6e.JPG",
+    "static/media/mp-greatfalls.jpg": "/static/media/mp-greatfalls.0cb2f59fcf3ac337244e.jpg",
+    "static/media/mp-karjat.jpg": "/static/media/mp-karjat.bd293397ca47b87539ea.jpg",
+    "static/media/mp-greenhouse.JPG": "/static/media/mp-greenhouse.021c8964b980e2b411b5.JPG",
     "static/media/umbc-hack.jpg": "/static/media/umbc-hack.79f4feedcae3e5fbde64.jpg",
+    "static/media/mp-sanfran.JPG": "/static/media/mp-sanfran.f5abd64a7d4820814dce.JPG",
+    "static/media/buzzword-6.jpeg": "/static/media/buzzword-6.9484dec83dc96cb31933.jpeg",
+    "static/media/mp-la.JPG": "/static/media/mp-la.8ba014a14bfe2f3d5bf5.JPG",
     "static/media/karjat-india.jpg": "/static/media/karjat-india.8a2e8e9c5237c0296f0b.jpg",
-    "static/media/buzzword-5.jpg": "/static/media/buzzword-5.76ead029eb770b61a9ac.jpg",
     "static/media/MonumentGrotesk-Regular.eot": "/static/media/MonumentGrotesk-Regular.e846dfc65500190b5e0c.eot",
     "static/media/MonumentGrotesk-Regular.ttf": "/static/media/MonumentGrotesk-Regular.02c608d4045c684e70bb.ttf",
     "static/media/space-3.jpg": "/static/media/space-3.b7d7b6ddeeeae5f64a5a.jpg",
@@ -13,11 +18,11 @@
     "static/media/MonumentGrotesk-Regular.woff": "/static/media/MonumentGrotesk-Regular.ea373644ecfa90551671.woff",
     "static/media/MonumentGrotesk-Regular.woff2": "/static/media/MonumentGrotesk-Regular.366121b63755af51343c.woff2",
     "index.html": "/index.html",
-    "main.5d226de8.css.map": "/static/css/main.5d226de8.css.map",
-    "main.385eb7da.js.map": "/static/js/main.385eb7da.js.map"
+    "main.322cccf7.css.map": "/static/css/main.322cccf7.css.map",
+    "main.1c35caaa.js.map": "/static/js/main.1c35caaa.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d226de8.css",
-    "static/js/main.385eb7da.js"
+    "static/css/main.322cccf7.css",
+    "static/js/main.1c35caaa.js"
   ]
 }
